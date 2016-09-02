@@ -1,0 +1,2109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Bogdan Vladu</string>
+	<key>CreatedWith</key>
+	<string>SpriteHelper</string>
+	<key>SHEETS_INFO</key>
+	<array>
+		<dict>
+			<key>2HDSuffix</key>
+			<string>-ipadhd</string>
+			<key>AllowRotation</key>
+			<true/>
+			<key>Crop</key>
+			<false/>
+			<key>DropSprites</key>
+			<false/>
+			<key>HDSuffix</key>
+			<string>-hd</string>
+			<key>IsRendable</key>
+			<true/>
+			<key>MaxSheetSize</key>
+			<integer>4096</integer>
+			<key>NpotSize</key>
+			<string>{1020, 1000}</string>
+			<key>Padding</key>
+			<integer>8</integer>
+			<key>PixelFormat</key>
+			<integer>0</integer>
+			<key>SheetImage</key>
+			<string>SpriteSheetLevel13_SpritesLevel13.png</string>
+			<key>SheetImage-HD</key>
+			<string>SpriteSheetLevel13_SpritesLevel13-ipadhd.png</string>
+			<key>SheetName</key>
+			<string>SpritesLevel13</string>
+			<key>SheetSceneImageName</key>
+			<string></string>
+			<key>Sheet_Sprites_Info</key>
+			<dict>
+				<key>block1</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9vawQEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAA6AIAAAUA
+					AAABAQAAVXNlcnMAAAAFAAAAAQEAAGFkbWlu
+					AAAABwAAAAEBAABEZXNrdG9wABEAAAABAQAA
+					em9tYmllSm9lVGV4dHVyZXMAAAAHAAAAAQEA
+					AExldmVsMTMAAwAAAAEBAABuZXcACgAAAAEB
+					AABibG9jazEucG5nAAAcAAAAAQYAAAQAAAAU
+					AAAAJAAAADQAAABQAAAAYAAAAGwAAAAIAAAA
+					BAMAANe+AAAAAAAACAAAAAQDAABmSgQAAAAA
+					AAgAAAAEAwAABEsEAAAAAAAIAAAABAMAABA3
+					iAAAAAAACAAAAAQDAACIlrcAAAAAAAgAAAAE
+					AwAAlJa3AAAAAAAIAAAABAMAAJeWtwAAAAAA
+					HAAAAAEGAACkAAAAtAAAAMQAAADUAAAA5AAA
+					APQAAAAEAQAAGAAAAAECAAABAAAAAAAAAA8A
+					AAAAAAAAAAAAAAAAAAAAAAAAAQUAAAQAAAAD
+					AwAABAAAAAgAAAAEAwAABQAAAAAAAAAEAAAA
+					AwMAAPUBAAADAAAAAQEAAE1hYwAIAAAABAMA
+					AADAVHFKAAAACAAAAAAEAABBtPFStwAAACQA
+					AAABAQAAQzBCQUVGMUQtQTAyNS0zNjk4LTk4
+					NTItNTgzMjJGQTRDQzJBGAAAAAECAACBAAAA
+					AQAIAO8/AAABAAgAAAAAAAAAAAABAAAAAQEA
+					AC8AAAAEAAAAAwMAAAABAADFAAAAAQIAADUy
+					MjViYzdjZWM0Zjg5OTZiNmQyNmU5MmMxZmU1
+					ZTA2OTg4ZWE5Y2E7MDAwMDAwMDA7MDAwMDAw
+					MDAwMDAwMDAyMDtjb20uYXBwbGUuYXBwLXNh
+					bmRib3gucmVhZC13cml0ZTswMDAwMDAwMTsw
+					ZTAwMDAwMjswMDAwMDAwMDAwYjc5Njk3Oy91
+					c2Vycy9hZG1pbi9kZXNrdG9wL3pvbWJpZWpv
+					ZXRleHR1cmVzL2xldmVsMTMvbmV3L2Jsb2Nr
+					MS5wbmcAAAAA5AAAAP7///8BAAAAAAAAABIA
+					AAAEEAAAgAAAAAAAAAAFEAAAFAEAAAAAAAAQ
+					EAAAOAEAAAAAAABUEAAAYAEAAAAAAABVEAAA
+					YAEAAAAAAABWEAAAWAEAAAAAAAACIAAAAAIA
+					AAAAAAAQIAAAiAEAAAAAAAARIAAAtAEAAAAA
+					AAASIAAAlAEAAAAAAAATIAAApAEAAAAAAAAg
+					IAAA4AEAAAAAAAAwIAAAWAEAAAAAAAABwAAA
+					bAEAAAAAAAARwAAAFAAAAAAAAAASwAAAfAEA
+					AAAAAAAQ0AAADAIAAAAAAACA8AAAGAIAAAAA
+					AAA=
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array/>
+						<key>Type</key>
+						<integer>3</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>SpritesLevel13</string>
+					<key>SHSpriteName</key>
+					<string>block1</string>
+					<key>SheetImage</key>
+					<string>SpriteSheetLevel13_SpritesLevel13.png</string>
+					<key>SheetImage-HD</key>
+					<string>SpriteSheetLevel13_SpritesLevel13-ipadhd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<true/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 1}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<false/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{2, 2}, {146.75, 48.5}}</string>
+						<key>Frame-HD</key>
+						<string>{{8, 8}, {585, 194}}</string>
+						<key>Image</key>
+						<string>SpriteSheetLevel13_SpritesLevel13.png</string>
+						<key>Image-HD</key>
+						<string>SpriteSheetLevel13_SpritesLevel13-ipadhd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<false/>
+						<key>IsTrimmed</key>
+						<true/>
+						<key>Name</key>
+						<string>block1</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/admin/Desktop/zombieJoeTextures/Level13/new/block1.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>../../../zombieJoeTextures/Level13/new/block1.png/</string>
+						<key>OriginalRect</key>
+						<string>{{0, 0}, {585, 194}}</string>
+						<key>OriginalSize</key>
+						<string>{585, 194}</string>
+						<key>Position</key>
+						<string>{8, 8}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{146.25, 48.5}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0.25, -0}</string>
+						<key>UsesBatchRendering</key>
+						<true/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>block2</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9vawQEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAA6AIAAAUA
+					AAABAQAAVXNlcnMAAAAFAAAAAQEAAGFkbWlu
+					AAAABwAAAAEBAABEZXNrdG9wABEAAAABAQAA
+					em9tYmllSm9lVGV4dHVyZXMAAAAHAAAAAQEA
+					AExldmVsMTMAAwAAAAEBAABuZXcACgAAAAEB
+					AABibG9jazIucG5nAAAcAAAAAQYAAAQAAAAU
+					AAAAJAAAADQAAABQAAAAYAAAAGwAAAAIAAAA
+					BAMAANe+AAAAAAAACAAAAAQDAABmSgQAAAAA
+					AAgAAAAEAwAABEsEAAAAAAAIAAAABAMAABA3
+					iAAAAAAACAAAAAQDAACIlrcAAAAAAAgAAAAE
+					AwAAlJa3AAAAAAAIAAAABAMAAJiWtwAAAAAA
+					HAAAAAEGAACkAAAAtAAAAMQAAADUAAAA5AAA
+					APQAAAAEAQAAGAAAAAECAAABAAAAAAAAAA8A
+					AAAAAAAAAAAAAAAAAAAAAAAAAQUAAAQAAAAD
+					AwAABAAAAAgAAAAEAwAABQAAAAAAAAAEAAAA
+					AwMAAPUBAAADAAAAAQEAAE1hYwAIAAAABAMA
+					AADAVHFKAAAACAAAAAAEAABBtPFStwAAACQA
+					AAABAQAAQzBCQUVGMUQtQTAyNS0zNjk4LTk4
+					NTItNTgzMjJGQTRDQzJBGAAAAAECAACBAAAA
+					AQAIAO8/AAABAAgAAAAAAAAAAAABAAAAAQEA
+					AC8AAAAEAAAAAwMAAAABAADFAAAAAQIAADhl
+					NWUyNzQ0Zjc0Y2I5YjEzMzI5ZGVhNDdiZTY0
+					YTljNDE4YTUwOGI7MDAwMDAwMDA7MDAwMDAw
+					MDAwMDAwMDAyMDtjb20uYXBwbGUuYXBwLXNh
+					bmRib3gucmVhZC13cml0ZTswMDAwMDAwMTsw
+					ZTAwMDAwMjswMDAwMDAwMDAwYjc5Njk4Oy91
+					c2Vycy9hZG1pbi9kZXNrdG9wL3pvbWJpZWpv
+					ZXRleHR1cmVzL2xldmVsMTMvbmV3L2Jsb2Nr
+					Mi5wbmcAAAAA5AAAAP7///8BAAAAAAAAABIA
+					AAAEEAAAgAAAAAAAAAAFEAAAFAEAAAAAAAAQ
+					EAAAOAEAAAAAAABUEAAAYAEAAAAAAABVEAAA
+					YAEAAAAAAABWEAAAWAEAAAAAAAACIAAAAAIA
+					AAAAAAAQIAAAiAEAAAAAAAARIAAAtAEAAAAA
+					AAASIAAAlAEAAAAAAAATIAAApAEAAAAAAAAg
+					IAAA4AEAAAAAAAAwIAAAWAEAAAAAAAABwAAA
+					bAEAAAAAAAARwAAAFAAAAAAAAAASwAAAfAEA
+					AAAAAAAQ0AAADAIAAAAAAACA8AAAGAIAAAAA
+					AAA=
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array/>
+						<key>Type</key>
+						<integer>3</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>SpritesLevel13</string>
+					<key>SHSpriteName</key>
+					<string>block2</string>
+					<key>SheetImage</key>
+					<string>SpriteSheetLevel13_SpritesLevel13.png</string>
+					<key>SheetImage-HD</key>
+					<string>SpriteSheetLevel13_SpritesLevel13-ipadhd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<true/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 1}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<false/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{201, 102}, {97.5, 48.5}}</string>
+						<key>Frame-HD</key>
+						<string>{{804, 408}, {390, 194}}</string>
+						<key>Image</key>
+						<string>SpriteSheetLevel13_SpritesLevel13.png</string>
+						<key>Image-HD</key>
+						<string>SpriteSheetLevel13_SpritesLevel13-ipadhd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<true/>
+						<key>IsTrimmed</key>
+						<true/>
+						<key>Name</key>
+						<string>block2</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/admin/Desktop/zombieJoeTextures/Level13/new/block2.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>../../../zombieJoeTextures/Level13/new/block2.png/</string>
+						<key>OriginalRect</key>
+						<string>{{0, 0}, {390, 194}}</string>
+						<key>OriginalSize</key>
+						<string>{390, 194}</string>
+						<key>Position</key>
+						<string>{804, 408}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{97.5, 48.5}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, -0}</string>
+						<key>UsesBatchRendering</key>
+						<true/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>block3</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9vawQEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAA6AIAAAUA
+					AAABAQAAVXNlcnMAAAAFAAAAAQEAAGFkbWlu
+					AAAABwAAAAEBAABEZXNrdG9wABEAAAABAQAA
+					em9tYmllSm9lVGV4dHVyZXMAAAAHAAAAAQEA
+					AExldmVsMTMAAwAAAAEBAABuZXcACgAAAAEB
+					AABibG9jazMucG5nAAAcAAAAAQYAAAQAAAAU
+					AAAAJAAAADQAAABQAAAAYAAAAGwAAAAIAAAA
+					BAMAANe+AAAAAAAACAAAAAQDAABmSgQAAAAA
+					AAgAAAAEAwAABEsEAAAAAAAIAAAABAMAABA3
+					iAAAAAAACAAAAAQDAACIlrcAAAAAAAgAAAAE
+					AwAAlJa3AAAAAAAIAAAABAMAAJmWtwAAAAAA
+					HAAAAAEGAACkAAAAtAAAAMQAAADUAAAA5AAA
+					APQAAAAEAQAAGAAAAAECAAABAAAAAAAAAA8A
+					AAAAAAAAAAAAAAAAAAAAAAAAAQUAAAQAAAAD
+					AwAABAAAAAgAAAAEAwAABQAAAAAAAAAEAAAA
+					AwMAAPUBAAADAAAAAQEAAE1hYwAIAAAABAMA
+					AADAVHFKAAAACAAAAAAEAABBtPFStwAAACQA
+					AAABAQAAQzBCQUVGMUQtQTAyNS0zNjk4LTk4
+					NTItNTgzMjJGQTRDQzJBGAAAAAECAACBAAAA
+					AQAIAO8/AAABAAgAAAAAAAAAAAABAAAAAQEA
+					AC8AAAAEAAAAAwMAAAABAADFAAAAAQIAADQ2
+					MTk1NTM2YjNhMGUxZmIyODg3Njk2Y2Q1ODRm
+					YzUyZWQ5YWE4YTQ7MDAwMDAwMDA7MDAwMDAw
+					MDAwMDAwMDAyMDtjb20uYXBwbGUuYXBwLXNh
+					bmRib3gucmVhZC13cml0ZTswMDAwMDAwMTsw
+					ZTAwMDAwMjswMDAwMDAwMDAwYjc5Njk5Oy91
+					c2Vycy9hZG1pbi9kZXNrdG9wL3pvbWJpZWpv
+					ZXRleHR1cmVzL2xldmVsMTMvbmV3L2Jsb2Nr
+					My5wbmcAAAAA5AAAAP7///8BAAAAAAAAABIA
+					AAAEEAAAgAAAAAAAAAAFEAAAFAEAAAAAAAAQ
+					EAAAOAEAAAAAAABUEAAAYAEAAAAAAABVEAAA
+					YAEAAAAAAABWEAAAWAEAAAAAAAACIAAAAAIA
+					AAAAAAAQIAAAiAEAAAAAAAARIAAAtAEAAAAA
+					AAASIAAAlAEAAAAAAAATIAAApAEAAAAAAAAg
+					IAAA4AEAAAAAAAAwIAAAWAEAAAAAAAABwAAA
+					bAEAAAAAAAARwAAAFAAAAAAAAAASwAAAfAEA
+					AAAAAAAQ0AAADAIAAAAAAACA8AAAGAIAAAAA
+					AAA=
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array/>
+						<key>Type</key>
+						<integer>3</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>SpritesLevel13</string>
+					<key>SHSpriteName</key>
+					<string>block3</string>
+					<key>SheetImage</key>
+					<string>SpriteSheetLevel13_SpritesLevel13.png</string>
+					<key>SheetImage-HD</key>
+					<string>SpriteSheetLevel13_SpritesLevel13-ipadhd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<true/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 1}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<false/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{201, 2}, {48.75, 97.5}}</string>
+						<key>Frame-HD</key>
+						<string>{{804, 8}, {195, 390}}</string>
+						<key>Image</key>
+						<string>SpriteSheetLevel13_SpritesLevel13.png</string>
+						<key>Image-HD</key>
+						<string>SpriteSheetLevel13_SpritesLevel13-ipadhd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<false/>
+						<key>IsTrimmed</key>
+						<true/>
+						<key>Name</key>
+						<string>block3</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/admin/Desktop/zombieJoeTextures/Level13/new/block3.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>../../../zombieJoeTextures/Level13/new/block3.png/</string>
+						<key>OriginalRect</key>
+						<string>{{0, 0}, {195, 390}}</string>
+						<key>OriginalSize</key>
+						<string>{195, 390}</string>
+						<key>Position</key>
+						<string>{804, 8}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{48.75, 97.5}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, -0}</string>
+						<key>UsesBatchRendering</key>
+						<true/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>block4</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9vawQEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAA6AIAAAUA
+					AAABAQAAVXNlcnMAAAAFAAAAAQEAAGFkbWlu
+					AAAABwAAAAEBAABEZXNrdG9wABEAAAABAQAA
+					em9tYmllSm9lVGV4dHVyZXMAAAAHAAAAAQEA
+					AExldmVsMTMAAwAAAAEBAABuZXcACgAAAAEB
+					AABibG9jazQucG5nAAAcAAAAAQYAAAQAAAAU
+					AAAAJAAAADQAAABQAAAAYAAAAGwAAAAIAAAA
+					BAMAANe+AAAAAAAACAAAAAQDAABmSgQAAAAA
+					AAgAAAAEAwAABEsEAAAAAAAIAAAABAMAABA3
+					iAAAAAAACAAAAAQDAACIlrcAAAAAAAgAAAAE
+					AwAAlJa3AAAAAAAIAAAABAMAAJqWtwAAAAAA
+					HAAAAAEGAACkAAAAtAAAAMQAAADUAAAA5AAA
+					APQAAAAEAQAAGAAAAAECAAABAAAAAAAAAA8A
+					AAAAAAAAAAAAAAAAAAAAAAAAAQUAAAQAAAAD
+					AwAABAAAAAgAAAAEAwAABQAAAAAAAAAEAAAA
+					AwMAAPUBAAADAAAAAQEAAE1hYwAIAAAABAMA
+					AADAVHFKAAAACAAAAAAEAABBtPFStwAAACQA
+					AAABAQAAQzBCQUVGMUQtQTAyNS0zNjk4LTk4
+					NTItNTgzMjJGQTRDQzJBGAAAAAECAACBAAAA
+					AQAIAO8/AAABAAgAAAAAAAAAAAABAAAAAQEA
+					AC8AAAAEAAAAAwMAAAABAADFAAAAAQIAADlh
+					MzdiZjU2YTk5OGNlM2ZjODVmM2I5NjY5NDFi
+					YWFmOTNlYjRmMzE7MDAwMDAwMDA7MDAwMDAw
+					MDAwMDAwMDAyMDtjb20uYXBwbGUuYXBwLXNh
+					bmRib3gucmVhZC13cml0ZTswMDAwMDAwMTsw
+					ZTAwMDAwMjswMDAwMDAwMDAwYjc5NjlhOy91
+					c2Vycy9hZG1pbi9kZXNrdG9wL3pvbWJpZWpv
+					ZXRleHR1cmVzL2xldmVsMTMvbmV3L2Jsb2Nr
+					NC5wbmcAAAAA5AAAAP7///8BAAAAAAAAABIA
+					AAAEEAAAgAAAAAAAAAAFEAAAFAEAAAAAAAAQ
+					EAAAOAEAAAAAAABUEAAAYAEAAAAAAABVEAAA
+					YAEAAAAAAABWEAAAWAEAAAAAAAACIAAAAAIA
+					AAAAAAAQIAAAiAEAAAAAAAARIAAAtAEAAAAA
+					AAASIAAAlAEAAAAAAAATIAAApAEAAAAAAAAg
+					IAAA4AEAAAAAAAAwIAAAWAEAAAAAAAABwAAA
+					bAEAAAAAAAARwAAAFAAAAAAAAAASwAAAfAEA
+					AAAAAAAQ0AAADAIAAAAAAACA8AAAGAIAAAAA
+					AAA=
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array/>
+						<key>Type</key>
+						<integer>3</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>SpritesLevel13</string>
+					<key>SHSpriteName</key>
+					<string>block4</string>
+					<key>SheetImage</key>
+					<string>SpriteSheetLevel13_SpritesLevel13.png</string>
+					<key>SheetImage-HD</key>
+					<string>SpriteSheetLevel13_SpritesLevel13-ipadhd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<true/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 1}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<false/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{151, 2}, {48.75, 146.75}}</string>
+						<key>Frame-HD</key>
+						<string>{{604, 8}, {193, 585}}</string>
+						<key>Image</key>
+						<string>SpriteSheetLevel13_SpritesLevel13.png</string>
+						<key>Image-HD</key>
+						<string>SpriteSheetLevel13_SpritesLevel13-ipadhd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<false/>
+						<key>IsTrimmed</key>
+						<true/>
+						<key>Name</key>
+						<string>block4</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/admin/Desktop/zombieJoeTextures/Level13/new/block4.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>../../../zombieJoeTextures/Level13/new/block4.png/</string>
+						<key>OriginalRect</key>
+						<string>{{0, 0}, {193, 585}}</string>
+						<key>OriginalSize</key>
+						<string>{193, 585}</string>
+						<key>Position</key>
+						<string>{604, 8}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{48.25, 146.25}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0.25, -0.25}</string>
+						<key>UsesBatchRendering</key>
+						<true/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>block_main</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9va9wDAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAwAIAAAUA
+					AAABAQAAVXNlcnMAAAAFAAAAAQEAAGFkbWlu
+					AAAABwAAAAEBAABEZXNrdG9wAAkAAAABAQAA
+					TEggTWFjcm8gAAAABQAAAAEBAABVSSAxMwAA
+					AA4AAAABAQAAYmxvY2tfbWFpbi5wbmcAABgA
+					AAABBgAABAAAABQAAAAkAAAANAAAAEgAAABY
+					AAAACAAAAAQDAADXvgAAAAAAAAgAAAAEAwAA
+					ZkoEAAAAAAAIAAAABAMAAARLBAAAAAAACAAA
+					AAQDAAB2g6MAAAAAAAgAAAAEAwAAbIWjAAAA
+					AAAIAAAABAMAAHaFowAAAAAAGAAAAAEGAACQ
+					AAAAoAAAALAAAADAAAAA0AAAAOAAAAAYAAAA
+					AQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAA
+					AAAAAAABBQAABAAAAAMDAAAEAAAABAAAAAMD
+					AAADAAAACAAAAAQDAAAEAAAAAAAAAAQAAAAD
+					AwAA9QEAAAMAAAABAQAATWFjAAgAAAAEAwAA
+					AMBUcUoAAAAIAAAAAAQAAEG08VK3AAAAJAAA
+					AAEBAABDMEJBRUYxRC1BMDI1LTM2OTgtOTg1
+					Mi01ODMyMkZBNENDMkEYAAAAAQIAAIEAAAAB
+					AAgA7z8AAAEACAAAAAAAAAAAAAEAAAABAQAA
+					LwAAAAQAAAADAwAAAAEAALsAAAABAgAAYWVk
+					NjI3MzJmMGQ3MmQ3OTA4ZjhhYTMzMTMzNmRj
+					M2VhZDczMjM4ZTswMDAwMDAwMDswMDAwMDAw
+					MDAwMDAwMDIwO2NvbS5hcHBsZS5hcHAtc2Fu
+					ZGJveC5yZWFkLXdyaXRlOzAwMDAwMDAxOzBl
+					MDAwMDAyOzAwMDAwMDAwMDBhMzg1NzY7L3Vz
+					ZXJzL2FkbWluL2Rlc2t0b3AvbGggbWFjcm8g
+					L3VpIDEzL2Jsb2NrX21haW4ucG5nAADkAAAA
+					/v///wEAAAAAAAAAEgAAAAQQAABwAAAAAAAA
+					AAUQAADwAAAAAAAAABAQAAAQAQAAAAAAAFQQ
+					AAA4AQAAAAAAAFUQAABEAQAAAAAAAFYQAAAw
+					AQAAAAAAAAIgAADkAQAAAAAAABAgAABsAQAA
+					AAAAABEgAACYAQAAAAAAABIgAAB4AQAAAAAA
+					ABMgAACIAQAAAAAAACAgAADEAQAAAAAAADAg
+					AAAwAQAAAAAAAAHAAABQAQAAAAAAABHAAAAU
+					AAAAAAAAABLAAABgAQAAAAAAABDQAADwAQAA
+					AAAAAIDwAAD8AQAAAAAAAA==
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<false/>
+						<key>FixedRot</key>
+						<true/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array>
+							<dict>
+								<key>Angle</key>
+								<integer>0</integer>
+								<key>Category</key>
+								<integer>1</integer>
+								<key>Density</key>
+								<real>0.20000000298023224</real>
+								<key>Fixture</key>
+								<array>
+									<array>
+										<string>{-16.125, 23}</string>
+										<string>{-22.875, 24.25}</string>
+										<string>{-22.875, 24}</string>
+									</array>
+									<array>
+										<string>{11.625, -23.25}</string>
+										<string>{22.875, -23.75}</string>
+										<string>{24.125, -19.75}</string>
+										<string>{24.125, -14.25}</string>
+										<string>{22.375, -8.5}</string>
+									</array>
+									<array>
+										<string>{-16.125, 23}</string>
+										<string>{-22.875, 24}</string>
+										<string>{-24.375, 21.25}</string>
+										<string>{-24.375, 19.75}</string>
+										<string>{-22.625, 11.75}</string>
+									</array>
+									<array>
+										<string>{-22.125, -9.25}</string>
+										<string>{-23.625, -19.25}</string>
+										<string>{-22.375, -23}</string>
+										<string>{-18.875, -23.75}</string>
+										<string>{-8.625, -24}</string>
+										<string>{7.6249999999999964, -24}</string>
+									</array>
+									<array>
+										<string>{22.875, 22.75}</string>
+										<string>{22.125, 23.75}</string>
+										<string>{6.875, 23.25}</string>
+										<string>{22.375, 19.5}</string>
+									</array>
+									<array>
+										<string>{-22.125, -6.5}</string>
+										<string>{7.6249999999999964, -24}</string>
+										<string>{22.625, 8}</string>
+									</array>
+									<array>
+										<string>{-23.625, -1.25}</string>
+										<string>{-22.125, -6.5}</string>
+										<string>{22.625, 8}</string>
+									</array>
+									<array>
+										<string>{-22.625, 11.75}</string>
+										<string>{-23.625, -1.25}</string>
+										<string>{22.625, 8}</string>
+									</array>
+									<array>
+										<string>{-16.125, 23}</string>
+										<string>{-22.625, 11.75}</string>
+										<string>{22.625, 8}</string>
+									</array>
+									<array>
+										<string>{-7.125, 24.25}</string>
+										<string>{-16.125, 23}</string>
+										<string>{22.625, 8}</string>
+									</array>
+									<array>
+										<string>{0.625, 24.25}</string>
+										<string>{-7.125, 24.25}</string>
+										<string>{22.625, 8}</string>
+									</array>
+									<array>
+										<string>{6.875, 23.25}</string>
+										<string>{0.625, 24.25}</string>
+										<string>{22.625, 8}</string>
+									</array>
+									<array>
+										<string>{22.375, 19.5}</string>
+										<string>{6.875, 23.25}</string>
+										<string>{22.625, 8}</string>
+									</array>
+									<array>
+										<string>{22.375, 19.5}</string>
+										<string>{22.625, 8}</string>
+										<string>{23.625, 14.25}</string>
+									</array>
+									<array>
+										<string>{-22.125, -6.5}</string>
+										<string>{-22.125, -9.25}</string>
+										<string>{7.6249999999999964, -24}</string>
+									</array>
+									<array>
+										<string>{22.375, -8.5}</string>
+										<string>{24.125, 3.5}</string>
+										<string>{22.625, 8}</string>
+										<string>{7.6249999999999964, -24}</string>
+										<string>{11.625, -23.25}</string>
+									</array>
+								</array>
+								<key>Friction</key>
+								<real>0.20000000298023224</real>
+								<key>Group</key>
+								<integer>0</integer>
+								<key>Height</key>
+								<real>0.0</real>
+								<key>HolesPoints</key>
+								<array/>
+								<key>IsCircle</key>
+								<false/>
+								<key>IsRectangle</key>
+								<false/>
+								<key>IsSensor</key>
+								<true/>
+								<key>LHHeight</key>
+								<real>0.0</real>
+								<key>LHShapePositionOffset</key>
+								<string>{-24.375, -24.25}</string>
+								<key>LHWidth</key>
+								<real>0.0</real>
+								<key>Mask</key>
+								<integer>65535</integer>
+								<key>Name</key>
+								<string>UntitledFixture</string>
+								<key>Restitution</key>
+								<real>0.20000000298023224</real>
+								<key>ShapePoints</key>
+								<array>
+									<string>{-1, 6}</string>
+									<string>{-12, 0}</string>
+									<string>{-18, 0}</string>
+									<string>{-50, 7}</string>
+									<string>{-102, 3}</string>
+									<string>{-123, 9}</string>
+									<string>{-134, 9.0000000000000142}</string>
+									<string>{-174, 3.0000000000000142}</string>
+									<string>{-189, 8.0000000000000142}</string>
+									<string>{-192, 22.000000000000014}</string>
+									<string>{-193, 63.000000000000014}</string>
+									<string>{-193, 128}</string>
+									<string>{-190, 144}</string>
+									<string>{-192, 189}</string>
+									<string>{-176, 194}</string>
+									<string>{-154, 194}</string>
+									<string>{-131, 187}</string>
+									<string>{-82.999999999999986, 194}</string>
+									<string>{-64.999999999999986, 188}</string>
+									<string>{-39.999999999999986, 192}</string>
+									<string>{-18.999999999999986, 187}</string>
+									<string>{-5.9999999999999858, 189}</string>
+									<string>{-1.9999999999999858, 186}</string>
+									<string>{-3.9999999999999858, 125}</string>
+									<string>{0, 100}</string>
+									<string>{0, 69}</string>
+									<string>{-5, 33}</string>
+									<string>{0, 6}</string>
+								</array>
+								<key>ShapePositionOffset</key>
+								<string>{0, 0}</string>
+								<key>Tag</key>
+								<integer>0</integer>
+								<key>Width</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+						<key>Type</key>
+						<integer>3</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>SpritesLevel13</string>
+					<key>SHSpriteName</key>
+					<string>block_main</string>
+					<key>SheetImage</key>
+					<string>SpriteSheetLevel13_SpritesLevel13.png</string>
+					<key>SheetImage-HD</key>
+					<string>SpriteSheetLevel13_SpritesLevel13-ipadhd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<true/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 1}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<false/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{2, 151}, {48.75, 48.5}}</string>
+						<key>Frame-HD</key>
+						<string>{{8, 604}, {195, 194}}</string>
+						<key>Image</key>
+						<string>SpriteSheetLevel13_SpritesLevel13.png</string>
+						<key>Image-HD</key>
+						<string>SpriteSheetLevel13_SpritesLevel13-ipadhd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<true/>
+						<key>IsTrimmed</key>
+						<true/>
+						<key>Name</key>
+						<string>block_main</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/admin/Desktop/LH Macro /UI 13/block_main.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>../../../LH%20Macro%20/UI%2013/block_main.png/</string>
+						<key>OriginalRect</key>
+						<string>{{0, 0}, {195, 194}}</string>
+						<key>OriginalSize</key>
+						<string>{195, 194}</string>
+						<key>Position</key>
+						<string>{8, 604}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{48.75, 48.5}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, -0}</string>
+						<key>UsesBatchRendering</key>
+						<true/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>block_main_bottom</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9va+wDAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAA0AIAAAUA
+					AAABAQAAVXNlcnMAAAAFAAAAAQEAAGFkbWlu
+					AAAABwAAAAEBAABEZXNrdG9wAAkAAAABAQAA
+					TEggTWFjcm8gAAAABQAAAAEBAABVSSAxMwAA
+					ABUAAAABAQAAYmxvY2tfbWFpbl9ib3R0b20u
+					cG5nAAAAGAAAAAEGAAAEAAAAFAAAACQAAAA0
+					AAAASAAAAFgAAAAIAAAABAMAANe+AAAAAAAA
+					CAAAAAQDAABmSgQAAAAAAAgAAAAEAwAABEsE
+					AAAAAAAIAAAABAMAAHaDowAAAAAACAAAAAQD
+					AABshaMAAAAAAAgAAAAEAwAAd4WjAAAAAAAY
+					AAAAAQYAAJgAAACoAAAAuAAAAMgAAADYAAAA
+					6AAAABgAAAABAgAAAQAAAAAAAAAPAAAAAAAA
+					AAAAAAAAAAAAAAAAAAEFAAAEAAAAAwMAAAQA
+					AAAEAAAAAwMAAAMAAAAIAAAABAMAAAQAAAAA
+					AAAABAAAAAMDAAD1AQAAAwAAAAEBAABNYWMA
+					CAAAAAQDAAAAwFRxSgAAAAgAAAAABAAAQbTx
+					UrcAAAAkAAAAAQEAAEMwQkFFRjFELUEwMjUt
+					MzY5OC05ODUyLTU4MzIyRkE0Q0MyQRgAAAAB
+					AgAAgQAAAAEACADvPwAAAQAIAAAAAAAAAAAA
+					AQAAAAEBAAAvAAAABAAAAAMDAAAAAQAAwgAA
+					AAECAABkY2I2ZjA3OGNiZDA3NWEyMGQ0YjEx
+					NGI3ZWQzYzg1NWJmMzEyYzg2OzAwMDAwMDAw
+					OzAwMDAwMDAwMDAwMDAwMjA7Y29tLmFwcGxl
+					LmFwcC1zYW5kYm94LnJlYWQtd3JpdGU7MDAw
+					MDAwMDE7MGUwMDAwMDI7MDAwMDAwMDAwMGEz
+					ODU3NzsvdXNlcnMvYWRtaW4vZGVza3RvcC9s
+					aCBtYWNybyAvdWkgMTMvYmxvY2tfbWFpbl9i
+					b3R0b20ucG5nAAAA5AAAAP7///8BAAAAAAAA
+					ABIAAAAEEAAAeAAAAAAAAAAFEAAA+AAAAAAA
+					AAAQEAAAGAEAAAAAAABUEAAAQAEAAAAAAABV
+					EAAATAEAAAAAAABWEAAAOAEAAAAAAAACIAAA
+					7AEAAAAAAAAQIAAAdAEAAAAAAAARIAAAoAEA
+					AAAAAAASIAAAgAEAAAAAAAATIAAAkAEAAAAA
+					AAAgIAAAzAEAAAAAAAAwIAAAOAEAAAAAAAAB
+					wAAAWAEAAAAAAAARwAAAFAAAAAAAAAASwAAA
+					aAEAAAAAAAAQ0AAA+AEAAAAAAACA8AAABAIA
+					AAAAAAA=
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<false/>
+						<key>FixedRot</key>
+						<true/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array>
+							<dict>
+								<key>Angle</key>
+								<integer>0</integer>
+								<key>Category</key>
+								<integer>1</integer>
+								<key>Density</key>
+								<real>0.20000000298023224</real>
+								<key>Fixture</key>
+								<array>
+									<array>
+										<string>{21.25, 23.375}</string>
+										<string>{-22.25, 23.625}</string>
+										<string>{-22.25, 23.375}</string>
+										<string>{23.5, -19.125}</string>
+									</array>
+									<array>
+										<string>{23.5, -19.125}</string>
+										<string>{-22, 11.375}</string>
+										<string>{-21.75, -22.375}</string>
+										<string>{20.5, -23.375}</string>
+										<string>{22.75, -22.625}</string>
+									</array>
+									<array>
+										<string>{23.5, -19.125}</string>
+										<string>{-22.25, 23.375}</string>
+										<string>{-23.75, 19.375}</string>
+										<string>{-22, 11.375}</string>
+									</array>
+								</array>
+								<key>Friction</key>
+								<real>0.20000000298023224</real>
+								<key>Group</key>
+								<integer>0</integer>
+								<key>Height</key>
+								<real>0.0</real>
+								<key>HolesPoints</key>
+								<array/>
+								<key>IsCircle</key>
+								<false/>
+								<key>IsRectangle</key>
+								<false/>
+								<key>IsSensor</key>
+								<true/>
+								<key>LHHeight</key>
+								<real>0.0</real>
+								<key>LHShapePositionOffset</key>
+								<string>{-23.75, -23.625}</string>
+								<key>LHWidth</key>
+								<real>0.0</real>
+								<key>Mask</key>
+								<integer>65535</integer>
+								<key>Name</key>
+								<string>UntitledFixture</string>
+								<key>Restitution</key>
+								<real>0.20000000298023224</real>
+								<key>ShapePoints</key>
+								<array>
+									<string>{-1, 6}</string>
+									<string>{-17, 0}</string>
+									<string>{-49, 7}</string>
+									<string>{-184, 8.0000000000000142}</string>
+									<string>{-188, 177}</string>
+									<string>{-185, 186}</string>
+									<string>{-171, 189}</string>
+									<string>{-0.99999999999998579, 180}</string>
+									<string>{0, 6}</string>
+								</array>
+								<key>ShapePositionOffset</key>
+								<string>{0, 0}</string>
+								<key>Tag</key>
+								<integer>0</integer>
+								<key>Width</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+						<key>Type</key>
+						<integer>3</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>SpritesLevel13</string>
+					<key>SHSpriteName</key>
+					<string>block_main_bottom</string>
+					<key>SheetImage</key>
+					<string>SpriteSheetLevel13_SpritesLevel13.png</string>
+					<key>SheetImage-HD</key>
+					<string>SpriteSheetLevel13_SpritesLevel13-ipadhd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<true/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 1}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<false/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{53, 151}, {47.5, 47.75}}</string>
+						<key>Frame-HD</key>
+						<string>{{212, 604}, {190, 189}}</string>
+						<key>Image</key>
+						<string>SpriteSheetLevel13_SpritesLevel13.png</string>
+						<key>Image-HD</key>
+						<string>SpriteSheetLevel13_SpritesLevel13-ipadhd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<true/>
+						<key>IsTrimmed</key>
+						<true/>
+						<key>Name</key>
+						<string>block_main_bottom</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/admin/Desktop/LH Macro /UI 13/block_main_bottom.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>../../../LH%20Macro%20/UI%2013/block_main_bottom.png/</string>
+						<key>OriginalRect</key>
+						<string>{{0, 0}, {190, 189}}</string>
+						<key>OriginalSize</key>
+						<string>{190, 189}</string>
+						<key>Position</key>
+						<string>{212, 604}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{47.5, 47.25}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, -0.25}</string>
+						<key>UsesBatchRendering</key>
+						<true/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>brains</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9vawgEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAA7AIAAAUA
+					AAABAQAAVXNlcnMAAAAFAAAAAQEAAGFkbWlu
+					AAAABwAAAAEBAABEZXNrdG9wABEAAAABAQAA
+					em9tYmllSm9lVGV4dHVyZXMAAAAGAAAAAQEA
+					AGxldmVsNwAABwAAAAEBAABsdmw3X1VJAAoA
+					AAABAQAAYnJhaW5zLnBuZwAAHAAAAAEGAAAE
+					AAAAFAAAACQAAAA0AAAAUAAAAGAAAABwAAAA
+					CAAAAAQDAADXvgAAAAAAAAgAAAAEAwAAZkoE
+					AAAAAAAIAAAABAMAAARLBAAAAAAACAAAAAQD
+					AAAQN4gAAAAAAAgAAAAEAwAAfimKAAAAAAAI
+					AAAABAMAAI8pigAAAAAACAAAAAQDAACk4YoA
+					AAAAABwAAAABBgAAqAAAALgAAADIAAAA2AAA
+					AOgAAAD4AAAACAEAABgAAAABAgAAAQAAAAAA
+					AAAPAAAAAAAAAAAAAAAAAAAAAAAAAAEFAAAE
+					AAAAAwMAAAQAAAAIAAAABAMAAAUAAAAAAAAA
+					BAAAAAMDAAD1AQAAAwAAAAEBAABNYWMACAAA
+					AAQDAAAAwFRxSgAAAAgAAAAABAAAQbTxUrcA
+					AAAkAAAAAQEAAEMwQkFFRjFELUEwMjUtMzY5
+					OC05ODUyLTU4MzIyRkE0Q0MyQRgAAAABAgAA
+					gQAAAAEACADvPwAAAQAIAAAAAAAAAAAAAQAA
+					AAEBAAAvAAAABAAAAAMDAAAAAQAAyAAAAAEC
+					AABiYjYyZDI5MTY1MzVmNTBlMjVkMGY3OWYz
+					MmM0OGVlZGY4YzM1MzFmOzAwMDAwMDAwOzAw
+					MDAwMDAwMDAwMDAwMjA7Y29tLmFwcGxlLmFw
+					cC1zYW5kYm94LnJlYWQtd3JpdGU7MDAwMDAw
+					MDE7MGUwMDAwMDI7MDAwMDAwMDAwMDhhZTFh
+					NDsvdXNlcnMvYWRtaW4vZGVza3RvcC96b21i
+					aWVqb2V0ZXh0dXJlcy9sZXZlbDcvbHZsN191
+					aS9icmFpbnMucG5nAOQAAAD+////AQAAAAAA
+					AAASAAAABBAAAIQAAAAAAAAABRAAABgBAAAA
+					AAAAEBAAADwBAAAAAAAAVBAAAGQBAAAAAAAA
+					VRAAAGQBAAAAAAAAVhAAAFwBAAAAAAAAAiAA
+					AAQCAAAAAAAAECAAAIwBAAAAAAAAESAAALgB
+					AAAAAAAAEiAAAJgBAAAAAAAAEyAAAKgBAAAA
+					AAAAICAAAOQBAAAAAAAAMCAAAFwBAAAAAAAA
+					AcAAAHABAAAAAAAAEcAAABQAAAAAAAAAEsAA
+					AIABAAAAAAAAENAAABACAAAAAAAAgPAAABwC
+					AAAAAAAA
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array/>
+						<key>Type</key>
+						<integer>3</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>SpritesLevel13</string>
+					<key>SHSpriteName</key>
+					<string>brains</string>
+					<key>SheetImage</key>
+					<string>SpriteSheetLevel13_SpritesLevel13.png</string>
+					<key>SheetImage-HD</key>
+					<string>SpriteSheetLevel13_SpritesLevel13-ipadhd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<true/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 1}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<false/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{98, 200}, {27, 18.5}}</string>
+						<key>Frame-HD</key>
+						<string>{{392, 800}, {108, 74}}</string>
+						<key>Image</key>
+						<string>SpriteSheetLevel13_SpritesLevel13.png</string>
+						<key>Image-HD</key>
+						<string>SpriteSheetLevel13_SpritesLevel13-ipadhd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<true/>
+						<key>IsTrimmed</key>
+						<true/>
+						<key>Name</key>
+						<string>brains</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/admin/Desktop/zombieJoeTextures/level7/lvl7_UI/brains.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>../../../zombieJoeTextures/level7/lvl7_UI/brains.png/</string>
+						<key>OriginalRect</key>
+						<string>{{0, 0}, {108, 74}}</string>
+						<key>OriginalSize</key>
+						<string>{108, 74}</string>
+						<key>Position</key>
+						<string>{392, 800}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{27, 18.5}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, -0}</string>
+						<key>UsesBatchRendering</key>
+						<true/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>rect</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9va2wDAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAUAIAAAUA
+					AAABAQAAVXNlcnMAAAAFAAAAAQEAAGFkbWlu
+					AAAABwAAAAEBAABEZXNrdG9wAAgAAAABAQAA
+					cmVjdC5wbmcQAAAAAQYAAAQAAAAUAAAAJAAA
+					ADQAAAAIAAAABAMAANe+AAAAAAAACAAAAAQD
+					AABmSgQAAAAAAAgAAAAEAwAABEsEAAAAAAAI
+					AAAABAMAAPHbowAAAAAAEAAAAAEGAABcAAAA
+					bAAAAHwAAACMAAAAGAAAAAECAAABAAAAAAAA
+					AA8AAAAAAAAAAAAAAAAAAAAAAAAAAQUAAAQA
+					AAADAwAABAAAAAQAAAADAwAAAQAAAAgAAAAE
+					AwAAAgAAAAAAAAAEAAAAAwMAAPUBAAADAAAA
+					AQEAAE1hYwAIAAAABAMAAADAVHFKAAAACAAA
+					AAAEAABBtPFStwAAACQAAAABAQAAQzBCQUVG
+					MUQtQTAyNS0zNjk4LTk4NTItNTgzMjJGQTRD
+					QzJBGAAAAAECAACBAAAAAQAIAO8/AAABAAgA
+					AAAAAAAAAAABAAAAAQEAAC8AAAAEAAAAAwMA
+					AAABAAClAAAAAQIAADgyMTYxYTA3YjZhOTBm
+					N2NmYjhmNjZmNmZlNDQ3NGY4ZWQyYTczOGE7
+					MDAwMDAwMDA7MDAwMDAwMDAwMDAwMDAyMDtj
+					b20uYXBwbGUuYXBwLXNhbmRib3gucmVhZC13
+					cml0ZTswMDAwMDAwMTswZTAwMDAwMjswMDAw
+					MDAwMDAwYTNkYmYxOy91c2Vycy9hZG1pbi9k
+					ZXNrdG9wL3JlY3QucG5nAAAAAOQAAAD+////
+					AQAAAAAAAAASAAAABBAAAEQAAAAAAAAABRAA
+					AJwAAAAAAAAAEBAAALQAAAAAAAAAVBAAANwA
+					AAAAAAAAVRAAAOgAAAAAAAAAVhAAANQAAAAA
+					AAAAAiAAAIgBAAAAAAAAECAAABABAAAAAAAA
+					ESAAADwBAAAAAAAAEiAAABwBAAAAAAAAEyAA
+					ACwBAAAAAAAAICAAAGgBAAAAAAAAMCAAANQA
+					AAAAAAAAAcAAAPQAAAAAAAAAEcAAABQAAAAA
+					AAAAEsAAAAQBAAAAAAAAENAAAJQBAAAAAAAA
+					gPAAAKABAAAAAAAA
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array/>
+						<key>Type</key>
+						<integer>3</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>SpritesLevel13</string>
+					<key>SHSpriteName</key>
+					<string>rect</string>
+					<key>SheetImage</key>
+					<string>SpriteSheetLevel13_SpritesLevel13.png</string>
+					<key>SheetImage-HD</key>
+					<string>SpriteSheetLevel13_SpritesLevel13-ipadhd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<true/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 1}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<false/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{252, 2}, {2.5, 2.5}}</string>
+						<key>Frame-HD</key>
+						<string>{{1008, 8}, {10, 10}}</string>
+						<key>Image</key>
+						<string>SpriteSheetLevel13_SpritesLevel13.png</string>
+						<key>Image-HD</key>
+						<string>SpriteSheetLevel13_SpritesLevel13-ipadhd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<false/>
+						<key>IsTrimmed</key>
+						<true/>
+						<key>Name</key>
+						<string>rect</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/admin/Desktop/rect.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>../../../rect.png/</string>
+						<key>OriginalRect</key>
+						<string>{{0, 0}, {10, 10}}</string>
+						<key>OriginalSize</key>
+						<string>{10, 10}</string>
+						<key>Position</key>
+						<string>{1008, 8}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{2.5, 2.5}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, -0}</string>
+						<key>UsesBatchRendering</key>
+						<true/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>snake</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9va9QDAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAuAIAAAUA
+					AAABAQAAVXNlcnMAAAAFAAAAAQEAAGFkbWlu
+					AAAABwAAAAEBAABEZXNrdG9wAAkAAAABAQAA
+					TEggTWFjcm8gAAAABQAAAAEBAABVSSAxMwAA
+					AAkAAAABAQAAc25ha2UucG5nAAAAGAAAAAEG
+					AAAEAAAAFAAAACQAAAA0AAAASAAAAFgAAAAI
+					AAAABAMAANe+AAAAAAAACAAAAAQDAABmSgQA
+					AAAAAAgAAAAEAwAABEsEAAAAAAAIAAAABAMA
+					AHaDowAAAAAACAAAAAQDAABshaMAAAAAAAgA
+					AAAEAwAAeoWjAAAAAAAYAAAAAQYAAIwAAACc
+					AAAArAAAALwAAADMAAAA3AAAABgAAAABAgAA
+					AQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAAAAAA
+					AAEFAAAEAAAAAwMAAAQAAAAEAAAAAwMAAAMA
+					AAAIAAAABAMAAAQAAAAAAAAABAAAAAMDAAD1
+					AQAAAwAAAAEBAABNYWMACAAAAAQDAAAAwFRx
+					SgAAAAgAAAAABAAAQbTxUrcAAAAkAAAAAQEA
+					AEMwQkFFRjFELUEwMjUtMzY5OC05ODUyLTU4
+					MzIyRkE0Q0MyQRgAAAABAgAAgQAAAAEACADv
+					PwAAAQAIAAAAAAAAAAAAAQAAAAEBAAAvAAAA
+					BAAAAAMDAAAAAQAAtgAAAAECAAAyYzkxOWQ2
+					NzNiNDExYzRlYjVmMTc1ZWU3OTg2OTU0ZTll
+					ODYzOGJkOzAwMDAwMDAwOzAwMDAwMDAwMDAw
+					MDAwMjA7Y29tLmFwcGxlLmFwcC1zYW5kYm94
+					LnJlYWQtd3JpdGU7MDAwMDAwMDE7MGUwMDAw
+					MDI7MDAwMDAwMDAwMGEzODU3YTsvdXNlcnMv
+					YWRtaW4vZGVza3RvcC9saCBtYWNybyAvdWkg
+					MTMvc25ha2UucG5nAAAA5AAAAP7///8BAAAA
+					AAAAABIAAAAEEAAAbAAAAAAAAAAFEAAA7AAA
+					AAAAAAAQEAAADAEAAAAAAABUEAAANAEAAAAA
+					AABVEAAAQAEAAAAAAABWEAAALAEAAAAAAAAC
+					IAAA4AEAAAAAAAAQIAAAaAEAAAAAAAARIAAA
+					lAEAAAAAAAASIAAAdAEAAAAAAAATIAAAhAEA
+					AAAAAAAgIAAAwAEAAAAAAAAwIAAALAEAAAAA
+					AAABwAAATAEAAAAAAAARwAAAFAAAAAAAAAAS
+					wAAAXAEAAAAAAAAQ0AAA7AEAAAAAAACA8AAA
+					+AEAAAAAAAA=
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array>
+							<dict>
+								<key>Angle</key>
+								<integer>0</integer>
+								<key>Category</key>
+								<integer>1</integer>
+								<key>Density</key>
+								<real>0.20000000298023224</real>
+								<key>Fixture</key>
+								<array>
+									<array>
+										<string>{-28.25, -15}</string>
+										<string>{-28.5, -21}</string>
+										<string>{-20.75, -22.5}</string>
+										<string>{-16, -14.25}</string>
+										<string>{-22.25, -1}</string>
+									</array>
+									<array>
+										<string>{-14.75, 8.25}</string>
+										<string>{-22.25, -1}</string>
+										<string>{-16, -14.25}</string>
+										<string>{-5.75, -9.75}</string>
+										<string>{-6.5, 13.25}</string>
+									</array>
+									<array>
+										<string>{-25, 5}</string>
+										<string>{-25.5, 0.5}</string>
+										<string>{-22.25, -1}</string>
+										<string>{-14.75, 8.25}</string>
+										<string>{-21.75, 9.75}</string>
+									</array>
+									<array>
+										<string>{25.5, 13.5}</string>
+										<string>{28, 16.5}</string>
+										<string>{26.25, 23}</string>
+										<string>{19.25, 24.5}</string>
+										<string>{19, 24.25}</string>
+										<string>{20.5, 13.5}</string>
+									</array>
+									<array>
+										<string>{15.5, 21.25}</string>
+										<string>{20.5, 13.5}</string>
+										<string>{19, 24.25}</string>
+									</array>
+									<array>
+										<string>{10, 17.5}</string>
+										<string>{15.5, 21.25}</string>
+										<string>{19, 24.25}</string>
+										<string>{10.25, 23.75}</string>
+										<string>{4.25, 16.75}</string>
+									</array>
+									<array>
+										<string>{-6.5, 13.25}</string>
+										<string>{9.25, 15.25}</string>
+										<string>{10, 17.5}</string>
+										<string>{4.25, 16.75}</string>
+										<string>{-2.75, 14.5}</string>
+									</array>
+									<array>
+										<string>{-3.5, -21.5}</string>
+										<string>{1.5, -24.25}</string>
+										<string>{5.75, -23}</string>
+										<string>{7.25, -16}</string>
+										<string>{4.5, -13.5}</string>
+										<string>{0, -14.25}</string>
+									</array>
+									<array>
+										<string>{-5.75, -9.75}</string>
+										<string>{-3.5, -21.5}</string>
+										<string>{0, -14.25}</string>
+										<string>{-0.5, -10}</string>
+										<string>{-6.5, 13.25}</string>
+									</array>
+									<array>
+										<string>{-6.5, 13.25}</string>
+										<string>{-0.5, -10}</string>
+										<string>{14, -8.25}</string>
+										<string>{21.5, -1}</string>
+										<string>{20, 6.25}</string>
+										<string>{15, 12.5}</string>
+										<string>{9.25, 15.25}</string>
+									</array>
+									<array>
+										<string>{-13.5, 16.5}</string>
+										<string>{-6.5, 13.25}</string>
+										<string>{-2.75, 14.5}</string>
+										<string>{-6.5, 22.5}</string>
+										<string>{-12.75, 23.5}</string>
+										<string>{-14.5, 21.75}</string>
+									</array>
+								</array>
+								<key>Friction</key>
+								<real>0.20000000298023224</real>
+								<key>Group</key>
+								<integer>0</integer>
+								<key>Height</key>
+								<real>0.0</real>
+								<key>HolesPoints</key>
+								<array/>
+								<key>IsCircle</key>
+								<false/>
+								<key>IsRectangle</key>
+								<false/>
+								<key>IsSensor</key>
+								<false/>
+								<key>LHHeight</key>
+								<real>0.0</real>
+								<key>LHShapePositionOffset</key>
+								<string>{-28.5, -24.5}</string>
+								<key>LHWidth</key>
+								<real>0.0</real>
+								<key>Mask</key>
+								<integer>65535</integer>
+								<key>Name</key>
+								<string>UntitledFixture</string>
+								<key>Restitution</key>
+								<real>0.20000000298023224</real>
+								<key>ShapePoints</key>
+								<array>
+									<string>{190, 1}</string>
+									<string>{155, 3}</string>
+									<string>{131, 31}</string>
+									<string>{103, 40}</string>
+									<string>{88, 8}</string>
+									<string>{63, 4}</string>
+									<string>{56, 11}</string>
+									<string>{60, 32}</string>
+									<string>{88, 45}</string>
+									<string>{55, 65}</string>
+									<string>{27, 59}</string>
+									<string>{14, 78}</string>
+									<string>{12, 96}</string>
+									<string>{25, 102}</string>
+									<string>{1, 158}</string>
+									<string>{0, 182}</string>
+									<string>{31, 188}</string>
+									<string>{50, 155}</string>
+									<string>{91, 137}</string>
+									<string>{100, 184}</string>
+									<string>{120, 195}</string>
+									<string>{137, 190}</string>
+									<string>{143, 162}</string>
+									<string>{132, 152}</string>
+									<string>{114, 155}</string>
+									<string>{112, 138}</string>
+									<string>{170, 131}</string>
+									<string>{200, 102}</string>
+									<string>{194, 73}</string>
+									<string>{174, 48}</string>
+									<string>{151, 37}</string>
+									<string>{154, 28}</string>
+									<string>{176, 13}</string>
+									<string>{196, 44}</string>
+									<string>{216, 44}</string>
+									<string>{226, 32}</string>
+									<string>{219, 6}</string>
+									<string>{191, 0}</string>
+								</array>
+								<key>ShapePositionOffset</key>
+								<string>{0, 0}</string>
+								<key>Tag</key>
+								<integer>0</integer>
+								<key>Width</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+						<key>Type</key>
+						<integer>3</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>SpritesLevel13</string>
+					<key>SHSpriteName</key>
+					<string>snake</string>
+					<key>SheetImage</key>
+					<string>SpriteSheetLevel13_SpritesLevel13.png</string>
+					<key>SheetImage-HD</key>
+					<string>SpriteSheetLevel13_SpritesLevel13-ipadhd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<true/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 1}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<false/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{2, 201}, {57, 49}}</string>
+						<key>Frame-HD</key>
+						<string>{{8, 804}, {228, 196}}</string>
+						<key>Image</key>
+						<string>SpriteSheetLevel13_SpritesLevel13.png</string>
+						<key>Image-HD</key>
+						<string>SpriteSheetLevel13_SpritesLevel13-ipadhd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<false/>
+						<key>IsTrimmed</key>
+						<true/>
+						<key>Name</key>
+						<string>snake</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/admin/Desktop/LH Macro /UI 13/snake.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>../../../LH%20Macro%20/UI%2013/snake.png/</string>
+						<key>OriginalRect</key>
+						<string>{{0, 0}, {228, 196}}</string>
+						<key>OriginalSize</key>
+						<string>{228, 196}</string>
+						<key>Position</key>
+						<string>{8, 804}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{57, 49}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, -0}</string>
+						<key>UsesBatchRendering</key>
+						<true/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>zombie</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9vawgEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAA7AIAAAUA
+					AAABAQAAVXNlcnMAAAAFAAAAAQEAAGFkbWlu
+					AAAABwAAAAEBAABEZXNrdG9wABEAAAABAQAA
+					em9tYmllSm9lVGV4dHVyZXMAAAAGAAAAAQEA
+					AGxldmVsNQAABwAAAAEBAABVSV9sdmw1AAoA
+					AAABAQAAem9tYmllLnBuZwAAHAAAAAEGAAAE
+					AAAAFAAAACQAAAA0AAAAUAAAAGAAAABwAAAA
+					CAAAAAQDAADXvgAAAAAAAAgAAAAEAwAAZkoE
+					AAAAAAAIAAAABAMAAARLBAAAAAAACAAAAAQD
+					AAAQN4gAAAAAAAgAAAAEAwAAETeIAAAAAAAI
+					AAAABAMAACU3iAAAAAAACAAAAAQDAAA7N4gA
+					AAAAABwAAAABBgAAqAAAALgAAADIAAAA2AAA
+					AOgAAAD4AAAACAEAABgAAAABAgAAAQAAAAAA
+					AAAPAAAAAAAAAAAAAAAAAAAAAAAAAAEFAAAE
+					AAAAAwMAAAQAAAAIAAAABAMAAAUAAAAAAAAA
+					BAAAAAMDAAD1AQAAAwAAAAEBAABNYWMACAAA
+					AAQDAAAAwFRxSgAAAAgAAAAABAAAQbTxUrcA
+					AAAkAAAAAQEAAEMwQkFFRjFELUEwMjUtMzY5
+					OC05ODUyLTU4MzIyRkE0Q0MyQRgAAAABAgAA
+					gQAAAAEACADvPwAAAQAIAAAAAAAAAAAAAQAA
+					AAEBAAAvAAAABAAAAAMDAAAAAQAAyAAAAAEC
+					AABkZGQ5MmRkMDk2OThhM2Q0YmY2MDk0OWI3
+					ZTcxZGQ0M2E0MGE2ODhiOzAwMDAwMDAwOzAw
+					MDAwMDAwMDAwMDAwMjA7Y29tLmFwcGxlLmFw
+					cC1zYW5kYm94LnJlYWQtd3JpdGU7MDAwMDAw
+					MDE7MGUwMDAwMDI7MDAwMDAwMDAwMDg4Mzcz
+					YjsvdXNlcnMvYWRtaW4vZGVza3RvcC96b21i
+					aWVqb2V0ZXh0dXJlcy9sZXZlbDUvdWlfbHZs
+					NS96b21iaWUucG5nAOQAAAD+////AQAAAAAA
+					AAASAAAABBAAAIQAAAAAAAAABRAAABgBAAAA
+					AAAAEBAAADwBAAAAAAAAVBAAAGQBAAAAAAAA
+					VRAAAGQBAAAAAAAAVhAAAFwBAAAAAAAAAiAA
+					AAQCAAAAAAAAECAAAIwBAAAAAAAAESAAALgB
+					AAAAAAAAEiAAAJgBAAAAAAAAEyAAAKgBAAAA
+					AAAAICAAAOQBAAAAAAAAMCAAAFwBAAAAAAAA
+					AcAAAHABAAAAAAAAEcAAABQAAAAAAAAAEsAA
+					AIABAAAAAAAAENAAABACAAAAAAAAgPAAABwC
+					AAAAAAAA
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array/>
+						<key>Type</key>
+						<integer>3</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>SpritesLevel13</string>
+					<key>SHSpriteName</key>
+					<string>zombie</string>
+					<key>SheetImage</key>
+					<string>SpriteSheetLevel13_SpritesLevel13.png</string>
+					<key>SheetImage-HD</key>
+					<string>SpriteSheetLevel13_SpritesLevel13-ipadhd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<true/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 1}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<false/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{61, 200}, {34.75, 47.5}}</string>
+						<key>Frame-HD</key>
+						<string>{{244, 800}, {137, 190}}</string>
+						<key>Image</key>
+						<string>SpriteSheetLevel13_SpritesLevel13.png</string>
+						<key>Image-HD</key>
+						<string>SpriteSheetLevel13_SpritesLevel13-ipadhd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<false/>
+						<key>IsTrimmed</key>
+						<true/>
+						<key>Name</key>
+						<string>zombie</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/admin/Desktop/zombieJoeTextures/level5/UI_lvl5/zombie.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>../../../zombieJoeTextures/level5/UI_lvl5/zombie.png/</string>
+						<key>OriginalRect</key>
+						<string>{{0, 0}, {137, 190}}</string>
+						<key>OriginalSize</key>
+						<string>{137, 190}</string>
+						<key>Position</key>
+						<string>{244, 800}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{34.25, 47.5}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0.25, -0}</string>
+						<key>UsesBatchRendering</key>
+						<true/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+			</dict>
+			<key>Size</key>
+			<string>{1024, 1024}</string>
+			<key>Trim</key>
+			<true/>
+			<key>ZOrder</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>2HDSuffix</key>
+			<string>-ipadhd</string>
+			<key>AllowRotation</key>
+			<true/>
+			<key>Crop</key>
+			<false/>
+			<key>DropSprites</key>
+			<false/>
+			<key>HDSuffix</key>
+			<string>-hd</string>
+			<key>IsRendable</key>
+			<true/>
+			<key>MaxSheetSize</key>
+			<integer>4096</integer>
+			<key>NpotSize</key>
+			<string>{2280, 1544}</string>
+			<key>Padding</key>
+			<integer>8</integer>
+			<key>PixelFormat</key>
+			<integer>0</integer>
+			<key>SheetImage</key>
+			<string>SpriteSheetLevel13_BgLevel13.png</string>
+			<key>SheetImage-HD</key>
+			<string>SpriteSheetLevel13_BgLevel13-ipadhd.png</string>
+			<key>SheetName</key>
+			<string>BgLevel13</string>
+			<key>SheetSceneImageName</key>
+			<string></string>
+			<key>Sheet_Sprites_Info</key>
+			<dict>
+				<key>background</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9vawwEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAA8AIAAAUA
+					AAABAQAAVXNlcnMAAAAFAAAAAQEAAGFkbWlu
+					AAAABwAAAAEBAABEZXNrdG9wABEAAAABAQAA
+					em9tYmllSm9lVGV4dHVyZXMAAAAHAAAAAQEA
+					AExldmVsMTMABAAAAAEBAABiZyAyDgAAAAEB
+					AABiYWNrZ3JvdW5kLmpwZwAAHAAAAAEGAAAE
+					AAAAFAAAACQAAAA0AAAAUAAAAGAAAABsAAAA
+					CAAAAAQDAADXvgAAAAAAAAgAAAAEAwAAZkoE
+					AAAAAAAIAAAABAMAAARLBAAAAAAACAAAAAQD
+					AAAQN4gAAAAAAAgAAAAEAwAAiJa3AAAAAAAI
+					AAAABAMAAM60vAAAAAAACAAAAAQDAADWtLwA
+					AAAAABwAAAABBgAAqAAAALgAAADIAAAA2AAA
+					AOgAAAD4AAAACAEAABgAAAABAgAAAQAAAAAA
+					AAAPAAAAAAAAAAAAAAAAAAAAAAAAAAEFAAAE
+					AAAAAwMAAAQAAAAIAAAABAMAAAUAAAAAAAAA
+					BAAAAAMDAAD1AQAAAwAAAAEBAABNYWMACAAA
+					AAQDAAAAwFRxSgAAAAgAAAAABAAAQbTxUrcA
+					AAAkAAAAAQEAAEMwQkFFRjFELUEwMjUtMzY5
+					OC05ODUyLTU4MzIyRkE0Q0MyQRgAAAABAgAA
+					gQAAAAEACADvPwAAAQAIAAAAAAAAAAAAAQAA
+					AAEBAAAvAAAABAAAAAMDAAAAAQAAygAAAAEC
+					AAA2ZmJjMTg0MDhlYzgyNzZkZmM2MGNlMmFi
+					NmU4MTI0YTg5YzUyYjAyOzAwMDAwMDAwOzAw
+					MDAwMDAwMDAwMDAwMjA7Y29tLmFwcGxlLmFw
+					cC1zYW5kYm94LnJlYWQtd3JpdGU7MDAwMDAw
+					MDE7MGUwMDAwMDI7MDAwMDAwMDAwMGJjYjRk
+					NjsvdXNlcnMvYWRtaW4vZGVza3RvcC96b21i
+					aWVqb2V0ZXh0dXJlcy9sZXZlbDEzL2JnIDIv
+					YmFja2dyb3VuZC5qcGcAAADkAAAA/v///wEA
+					AAAAAAAAEgAAAAQQAACEAAAAAAAAAAUQAAAY
+					AQAAAAAAABAQAAA8AQAAAAAAAFQQAABkAQAA
+					AAAAAFUQAABkAQAAAAAAAFYQAABcAQAAAAAA
+					AAIgAAAEAgAAAAAAABAgAACMAQAAAAAAABEg
+					AAC4AQAAAAAAABIgAACYAQAAAAAAABMgAACo
+					AQAAAAAAACAgAADkAQAAAAAAADAgAABcAQAA
+					AAAAAAHAAABwAQAAAAAAABHAAAAUAAAAAAAA
+					ABLAAACAAQAAAAAAABDQAAAQAgAAAAAAAIDw
+					AAAcAgAAAAAAAA==
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array/>
+						<key>Type</key>
+						<integer>3</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>BgLevel13</string>
+					<key>SHSpriteName</key>
+					<string>background</string>
+					<key>SheetImage</key>
+					<string>SpriteSheetLevel13_BgLevel13.png</string>
+					<key>SheetImage-HD</key>
+					<string>SpriteSheetLevel13_BgLevel13-ipadhd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<true/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 1}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<false/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{2, 2}, {568, 384}}</string>
+						<key>Frame-HD</key>
+						<string>{{8, 8}, {2272, 1536}}</string>
+						<key>Image</key>
+						<string>SpriteSheetLevel13_BgLevel13.png</string>
+						<key>Image-HD</key>
+						<string>SpriteSheetLevel13_BgLevel13-ipadhd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<false/>
+						<key>IsTrimmed</key>
+						<true/>
+						<key>Name</key>
+						<string>background</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/admin/Desktop/zombieJoeTextures/Level13/bg 2/background.jpg</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>../../../zombieJoeTextures/Level13/bg%202/background.jpg/</string>
+						<key>OriginalRect</key>
+						<string>{{0, 0}, {2272, 1536}}</string>
+						<key>OriginalSize</key>
+						<string>{2272, 1536}</string>
+						<key>Position</key>
+						<string>{8, 8}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{568, 384}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, -0}</string>
+						<key>UsesBatchRendering</key>
+						<true/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+			</dict>
+			<key>Size</key>
+			<string>{4096, 2048}</string>
+			<key>Trim</key>
+			<true/>
+			<key>ZOrder</key>
+			<integer>0</integer>
+		</dict>
+	</array>
+	<key>SH_ANIMATIONS_LIST</key>
+	<array/>
+	<key>SaveSettings</key>
+	<dict>
+		<key>Dither</key>
+		<false/>
+		<key>DocumentName</key>
+		<string>SpriteSheetLevel13</string>
+		<key>HD2XSuffix</key>
+		<string>-ipadhd</string>
+		<key>HDSuffix</key>
+		<string>-hd</string>
+		<key>ImageFormatId</key>
+		<integer>0</integer>
+		<key>Npot</key>
+		<true/>
+		<key>PvrFormat</key>
+		<integer>0</integer>
+		<key>PvrRemoveParent</key>
+		<true/>
+		<key>ResamplingAlgorithm</key>
+		<integer>0</integer>
+		<key>ResizingOptions</key>
+		<integer>2</integer>
+		<key>SaveStyle</key>
+		<integer>0</integer>
+	</dict>
+	<key>SceneFolderSandboxBookmark</key>
+	<data>
+	Ym9va5gDAAAAAAQQMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoAIA
+	AAUAAAABAQAAVXNlcnMAAAAFAAAAAQEAAGFkbWluAAAABwAAAAEBAABEZXNrdG9wABAA
+	AAABAQAAWm9tYmllIEpvZSAwNy0xMgoAAAABAQAAWm9tYmllIEpvZQAAGAAAAAEGAAAE
+	AAAAFAAAACQAAAA0AAAATAAAAEwAAAAIAAAABAMAANe+AAAAAAAACAAAAAQDAABmSgQA
+	AAAAAAgAAAAEAwAABEsEAAAAAAAIAAAABAMAAHh8pAAAAAAACAAAAAQDAACJfKQAAAAA
+	AAgAAAAEAwAAI32kAAAAAAAYAAAAAQYAAIAAAACQAAAAoAAAALAAAADAAAAA0AAAABgA
+	AAABAgAAAgAAAAAAAAAPAAAAAAAAAAAAAAAAAAAACAAAAAQDAAAEAAAAAAAAAAQAAAAD
+	AwAA9QEAAAMAAAABAQAATWFjAAgAAAAEAwAAAMBUcUoAAAAIAAAAAAQAAEG08VK3AAAA
+	JAAAAAEBAABDMEJBRUYxRC1BMDI1LTM2OTgtOTg1Mi01ODMyMkZBNENDMkEYAAAAAQIA
+	AIEAAAABAAgA7z8AAAEACAAAAAAAAAAAAAEAAAABAQAALwAAAAAAAAABBQAABAAAAAMD
+	AAAAAQAAwwAAAAECAAAzZTlhNDcyOTYyY2Q3ZWQxMTRkZDBkZTg3OTE4ZDgyMzVhMzYy
+	MDk1OzAwMDAwMDAwOzAwMDAwMDAwMDAwMDAwMjA7Y29tLmFwcGxlLmFwcC1zYW5kYm94
+	LnJlYWQtd3JpdGU7MDAwMDAwMDE7MGUwMDAwMDI7MDAwMDAwMDAwMGE0N2QyMzsvdXNl
+	cnMvYWRtaW4vZGVza3RvcC96b21iaWUgam9lIDA3LTEyL3pvbWJpZSBqb2Uvem9tYmll
+	IGpvZQAAwAAAAP7///8BAAAAAAAAAA8AAAAEEAAAYAAAAAAAAAAFEAAA4AAAAAAAAAAQ
+	EAAAAAEAAAAAAAACIAAAtAEAAAAAAAAQIAAAPAEAAAAAAAARIAAAaAEAAAAAAAASIAAA
+	SAEAAAAAAAATIAAAWAEAAAAAAAAgIAAAlAEAAAAAAAAwIAAAwAEAAAAAAAABwAAAIAEA
+	AAAAAAARwAAAFAAAAAAAAAASwAAAMAEAAAAAAAAQ0AAAyAEAAAAAAACA8AAA1AEAAAAA
+	AAA=
+	</data>
+	<key>Version</key>
+	<string>1.8.307</string>
+</dict>
+</plist>
